@@ -1,1 +1,1 @@
-docker pull hseeberger/scala-sbt:8u222_1.3.5_2.13.1
+docker build -t vladski/bddb .
